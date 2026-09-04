@@ -1,3 +1,2 @@
 # Portfolio
-Personal Website
-Just a website containing my resume for the hiring team to view.
+Just a personal website containing my resume for the hiring team to view.
